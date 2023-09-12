@@ -1,8 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "react-scroll";
 
 const NavBar = () => {
-  const [nav, setNav] = useState(false);
 
   const links = [
     {
