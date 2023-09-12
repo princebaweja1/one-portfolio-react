@@ -1,3 +1,7 @@
+Here is this project that is currently hosted on Netlify at the following URL:
+
+https://main--velvety-tanuki-2f3978.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
