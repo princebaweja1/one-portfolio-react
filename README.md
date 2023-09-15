@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 
 
-Technologis used:
+### Technologis used:
 React.js, Tailwind CSS, HTML.
 
 
