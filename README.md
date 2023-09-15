@@ -1,5 +1,6 @@
-This project is currently hosted on Netlify at the following URL:
-https://main--velvety-tanuki-2f3978.netlify.app/
+# This project is currently hosted on Netlify at the following URL:
+
+https://prince-portfolio-react.netlify.app/
 
 # Getting Started with Create React App
 
